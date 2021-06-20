@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CodeSnippets xmlns="http://schemas.microsoft.com/VisualStudio/2005/CodeSnippet">
+    <CodeSnippet Format="1.0.0">
+        <template>
+        </template>
+        <Snippet>
+            <Code Language="vue">
+                <![CDATA[]]>
+            </Code>
+        </Snippet>
+    </CodeSnippet>
+</CodeSnippets>
